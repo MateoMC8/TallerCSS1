@@ -1,0 +1,46 @@
+body {background-color: #333333;}
+
+	.bandera {
+		background-color: #cccccc;
+		width: 500px;
+		height: 300px;
+		margin:20px;
+		float: left;
+		}
+		.rojo{
+			background-color: red;
+			width: 3%;
+			height: 100%;
+			float: left;
+		}
+		.azul{
+			background-color: blue;
+			width: 3%;
+			height: 100%;
+			float:left;
+		}
+		.amarillo{
+			background-color: yellow;
+			width: 9%;
+			height: 100%;
+			float: left;
+		}
+		.rojo2{
+			background-color: red;
+			width: 13%;
+			height: 100%;
+			float: left;
+		}
+		.azul2{
+			background-color: blue;
+			width: 20%;
+			height: 100%;
+			float: left;
+		}
+		.amarillo2{
+			background-color: yellow;
+			width: 52%;
+			height: 100%;
+			float: left;
+		}
+	

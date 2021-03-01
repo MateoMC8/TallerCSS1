@@ -1,0 +1,7 @@
+Integrante: Mateo Marin Cuadros
+
+Qué pasa si en un elemento div que no cubre toda la página agrego la siguiente
+propiedad en el atributo style?
+
+Si se le agrega la propiedad anteriormente mencionada, lo que hace el codigo es quitarle las margenes a la pagina web,
+y se las coloca predeterminadas, es decir, para ponerle estilos, ya sea en Css o con la etiqueta Styles en HTML
